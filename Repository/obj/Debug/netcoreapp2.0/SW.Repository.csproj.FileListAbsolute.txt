@@ -1,0 +1,6 @@
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Repository\bin\Debug\netcoreapp2.0\SW.Repository.deps.json
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Repository\bin\Debug\netcoreapp2.0\SW.Repository.dll
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Repository\obj\Debug\netcoreapp2.0\SW.Repository.csprojResolveAssemblyReference.cache
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Repository\obj\Debug\netcoreapp2.0\SW.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Repository\obj\Debug\netcoreapp2.0\SW.Repository.AssemblyInfoInputs.cache
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Repository\obj\Debug\netcoreapp2.0\SW.Repository.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\bin\Debug\netcoreapp2.0\SW.Data.deps.json
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\bin\Debug\netcoreapp2.0\SW.Data.runtimeconfig.json
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\bin\Debug\netcoreapp2.0\SW.Data.runtimeconfig.dev.json
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\bin\Debug\netcoreapp2.0\SW.Data.dll
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\bin\Debug\netcoreapp2.0\SW.Data.pdb
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\obj\Debug\netcoreapp2.0\SW.Data.csproj.CoreCompileInputs.cache
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\obj\Debug\netcoreapp2.0\SW.Data.AssemblyInfoInputs.cache
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\obj\Debug\netcoreapp2.0\SW.Data.AssemblyInfo.cs
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\obj\Debug\netcoreapp2.0\SW.Data.dll
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\obj\Debug\netcoreapp2.0\SW.Data.pdb
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\obj\Debug\netcoreapp2.0\SW.Data.csprojResolveAssemblyReference.cache

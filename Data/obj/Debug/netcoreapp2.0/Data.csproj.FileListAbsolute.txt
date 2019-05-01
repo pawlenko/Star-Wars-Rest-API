@@ -1,0 +1,5 @@
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+C:\Users\pawlenko\Desktop\StarWars\Server\StarWars\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
