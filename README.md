@@ -4,7 +4,7 @@ Project is a simple REST API created in .NET CORE. The subject of this API is St
 
 ## What you can find 
 
-- 3 tier architecure (Bussines,Data,UI/API)
+- 3 tier architecture (Bussines,Data,UI/API)
 - Example of Functional/Integtaion/Unit tests
 - Repository pattern
 - Integration with Swagger
@@ -16,6 +16,6 @@ Project is a simple REST API created in .NET CORE. The subject of this API is St
 ## What you can do 
 
 - Create/Read/Update/Delete (CRUD) of Character, Planet, Episode models
-- You can add or remove Planet from Character
-- You can add or remove Espiode from Character
-- You can add or remove Friends from character ( API allow you to assign Character as friends )
+- You can add or remove Planet from/to Character
+- You can add or remove Espiode from/to Character
+- You can add or remove Friends from/to character ( API allow you to assign Character as friends )
