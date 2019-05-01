@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SW.Business", "Business\SW.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SW.API", "SW.API\SW.API.csproj", "{795F670C-1653-4FF5-962B-2D3075178708}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW.Integration.Test", "SW.API.Integration.Test\SW.Integration.Test.csproj", "{3740B5CB-ACAB-4F38-8D7B-0123495981E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW.Integration.Test", "SW.Integration.Test\SW.Integration.Test.csproj", "{3740B5CB-ACAB-4F38-8D7B-0123495981E9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW.Functional.Test", "SW.Functional.Test\SW.Functional.Test.csproj", "{0B7B57CD-BC31-436F-8F8D-094969C94D85}"
 EndProject

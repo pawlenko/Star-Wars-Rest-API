@@ -14723,11 +14723,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\SW.Functional.Test\\SW.Functional.Test.csproj",
+      "projectUniqueName": "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\SW.Functional.Test\\SW.Functional.Test.csproj",
       "projectName": "SW.Functional.Test",
-      "projectPath": "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\SW.Functional.Test\\SW.Functional.Test.csproj",
+      "projectPath": "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\SW.Functional.Test\\SW.Functional.Test.csproj",
       "packagesPath": "C:\\Users\\pawlenko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\SW.Functional.Test\\obj\\",
+      "outputPath": "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\SW.Functional.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14746,11 +14746,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\SW.API\\SW.API.csproj": {
-              "projectPath": "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\SW.API\\SW.API.csproj"
+            "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\SW.API\\SW.API.csproj": {
+              "projectPath": "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\SW.API\\SW.API.csproj"
             },
-            "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\Business\\SW.Business.csproj": {
-              "projectPath": "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\Business\\SW.Business.csproj"
+            "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\Business\\SW.Business.csproj": {
+              "projectPath": "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\Business\\SW.Business.csproj"
             }
           }
         }

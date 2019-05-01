@@ -3336,11 +3336,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\Business\\SW.Business.csproj",
+      "projectUniqueName": "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\Business\\SW.Business.csproj",
       "projectName": "SW.Business",
-      "projectPath": "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\Business\\SW.Business.csproj",
+      "projectPath": "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\Business\\SW.Business.csproj",
       "packagesPath": "C:\\Users\\pawlenko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\Business\\obj\\",
+      "outputPath": "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3359,8 +3359,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\Data\\SW.Data.csproj": {
-              "projectPath": "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\Data\\SW.Data.csproj"
+            "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\Data\\SW.Data.csproj": {
+              "projectPath": "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\Data\\SW.Data.csproj"
             }
           }
         }

@@ -3247,11 +3247,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\Data\\SW.Data.csproj",
+      "projectUniqueName": "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\Data\\SW.Data.csproj",
       "projectName": "SW.Data",
-      "projectPath": "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\Data\\SW.Data.csproj",
+      "projectPath": "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\Data\\SW.Data.csproj",
       "packagesPath": "C:\\Users\\pawlenko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pawlenko\\Desktop\\StarWars\\Server\\StarWars\\Data\\obj\\",
+      "outputPath": "C:\\Users\\pawlenko\\Documents\\Star-Wars-Rest-API\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
