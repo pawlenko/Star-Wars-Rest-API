@@ -10,7 +10,7 @@ Project is a simple REST API created in .NET CORE. The subject of this API is St
 - Integration with Swagger
 - Integration with MySQL
 - Usage of EF
-- Paggination
+- Pagination
 - CRUD for each Model (Character, Planet, Episode)
 
 ## What you can do 
