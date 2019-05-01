@@ -5,7 +5,7 @@ Project is a simple REST API created in .NET CORE. The subject of this API is St
 ## What you can find 
 
 - 3 tier architecture (Bussines,Data,UI/API)
-- Example of Functional/Integtaion/Unit tests
+- Example of Functional/Integration/Unit tests
 - Repository pattern
 - Integration with Swagger
 - Integration with MySQL
